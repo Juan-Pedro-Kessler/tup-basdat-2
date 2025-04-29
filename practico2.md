@@ -144,7 +144,7 @@ db.alumnos.find();
 - **Mejor rendimiento**: Al tener menos datos por servidor, las consultas pueden ejecutarse más rápido.
 - **Distribución de carga**: El trabajo se reparte entre varios nodos, aumentando la eficiencia general del sistema.
 
-Ejercicio 10: (seguridad y backups)
+# Ejercicio 10: (seguridad y backups)
 
 -Crear un usuario con permisos de lectura y escritura:
 
