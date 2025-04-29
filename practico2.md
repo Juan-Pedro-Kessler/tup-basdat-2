@@ -143,3 +143,33 @@ db.alumnos.find();
 - **Escalabilidad horizontal**: Permite distribuir los datos entre varios servidores, facilitando el manejo de grandes volúmenes de información.
 - **Mejor rendimiento**: Al tener menos datos por servidor, las consultas pueden ejecutarse más rápido.
 - **Distribución de carga**: El trabajo se reparte entre varios nodos, aumentando la eficiencia general del sistema.
+
+Ejercicio 10: (seguridad y backups)
+
+-Crear un usuario con permisos de lectura y escritura:
+
+    Para crear un usuario con permisos de lectura/escritura en la base de datos, se puede usar el comando:
+
+    use empresa;  
+    db.createUser({
+    user: "lautaroAc",
+    pwd: "12345678",        (datos de ej )
+    roles: [
+        { role: "readWrite", db: "empresa" }
+    ]
+    });
+
+-Hacer un backup de la base de datos:
+
+    - se usa la herramienta mongodump
+
+    mongodump --db empresa --out /ruta/a/backup 
+
+    (aca se especifica la ruta donde se hace el volcado de la db)
+
+
+-Restaurar la base de datos:
+    -se usa la herramienta mongorestore
+
+    mongorestore --db empresa /ruta/a/backup/empresa
+
