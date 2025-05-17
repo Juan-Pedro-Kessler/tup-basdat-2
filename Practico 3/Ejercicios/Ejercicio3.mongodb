@@ -22,7 +22,7 @@ db.ventas.aggregate([
       _id: 1,
       nombreCliente: "$cliente.nombre",
       total: 1,
-      descuento: { $subtract: ["$total", { $multiply: ["$total", 0.1] }] },
+      descuento: { $multiply: ["$total", 0.1] },
     },
   },
 ]);
