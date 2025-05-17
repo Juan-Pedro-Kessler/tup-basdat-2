@@ -23,7 +23,7 @@ db.ventas.aggregate([
   {
     $group: {
       _id: "$cliente.pais",
-      cantidadTransacciones: { $sum: "$cantidad" },
+      cantidadTransacciones: { $sum: 1 },
       montoTotal: { $sum: { $multiply: ["$cantidad", "$precio_unitario"] } },
       totalVentas: { $sum: "$total" },
     },
