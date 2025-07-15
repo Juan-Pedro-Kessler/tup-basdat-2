@@ -30,28 +30,32 @@ npm run dev
 # Estructuras de carpetas
 
 ```ruby
----Cursos Online
-    |   .env
-    |   index.js
-    |   package-lock.json
-    |   package.json
-    |
-    +---config
-    |       db.js
-    |
-    +---controllers
-    |       cursoController.js
-    |       matriculaController.js
-    |
-    +---models
-    |       curso.js
-    |       estudiante.js
-    |       matricula.js
-    |
-    ---routes
-            cursoRoutes.js
-            estudianteRoutes.js
-            matriculaRoutes.js
+\---Proyecto Final
+    |   README.md
+    |   
+    \---Cursos Online
+        |   .env
+        |   index.js
+        |   package-lock.json
+        |   package.json
+        |   
+        +---config
+        |       db.js
+        |       
+        +---controllers
+        |       cursoController.js
+        |       matriculaController.js
+        |       
+        +---middlewares
+        +---models
+        |       curso.js
+        |       estudiante.js
+        |       matricula.js
+        |       
+        \---routes
+                cursoRoutes.js
+                estudianteRoutes.js
+                matriculaRoutes.js
 ```
 
 # Rutas disponibles
