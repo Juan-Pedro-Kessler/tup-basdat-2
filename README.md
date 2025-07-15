@@ -1,6 +1,6 @@
 # Proyecto: "Cursos Online"
 
-### Instalación
+# Instalación
 
 ```ruby
 git clone https://github.com/Juan-Pedro-Kessler/tup-basdat-2/jsjs.git
