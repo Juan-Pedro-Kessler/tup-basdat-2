@@ -82,7 +82,7 @@ npm start
 
 **GET** /
 
-- ![Imagen de WhatsApp 2025-07-15 a las 19 19 15_75ef9c7a](https://github.com/user-attachments/assets/aad91681-0883-4756-ac53-aa18bcd44b85)
+- ![Imagen de WhatsApp 2025-07-15 a las 18 53 16_60886254](https://github.com/user-attachments/assets/403599a3-c8f8-462c-a1fa-215ffef6d087)
 
 
 # Tecnologías utilizadas
