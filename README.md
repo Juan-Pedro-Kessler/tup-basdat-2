@@ -1,4 +1,6 @@
 # Proyecto: "Cursos Online"
+- Para el **proyecto final**, hicimos un sistema para manejar cursos online. Usando **Node.js**, **Express** y **MongoDB** (con Mongoose) para crear una **API RESTful** que te deja hacer de todo: desde registrar cursos y estudiantes, hasta matricularlos y luego revisar o actualizar la info. Podés usar Postman o cualquier cliente HTTP para interactuar con él
+
 
 # Instalación
 
@@ -135,6 +137,8 @@ Obtener todos los estudiantes
 Node.js
 Express
 MongoDB (Mongoose)
+Nodemon (desarrollo)
+Postman (para pruebas en API)
 ```
 
 
