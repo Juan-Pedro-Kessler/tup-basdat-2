@@ -7,15 +7,19 @@ git clone https://github.com/Juan-Pedro-Kessler/tup-basdat-2/jsjs.git
 cd Cursos Online
 ```
 
-### Instala dependencias
+### Instalar dependencias
 
 ```ruby
 npm install
 npm install express mongoose nodemon
-npm run dev
 ```
 
-### Configurar las variables de entorno en el archivo .env
+### Correr el servidor
+```ruby
+nmp run dev
+```
+
+### Configurar las variables de entorno en el archivo `.env`
 
 ```ruby
 MONGO_URI=mongodb://localhost:27017/cursos_online
@@ -101,7 +105,7 @@ Obtener todos los estudiantes
 
 # Tecnologías utilizadas
 
-```java
+```ruby
 Node.js
 Express
 MongoDB (Mongoose)
