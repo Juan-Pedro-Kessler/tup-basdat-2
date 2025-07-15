@@ -30,19 +30,19 @@ npm start
 
 ## Cursos (`/api/cursos`)
 
-- POST /
+- **POST** /
+![Imagen de WhatsApp 2025-07-15 a las 18 46 02_ac5a8b74](https://github.com/user-attachments/assets/2c51dfe7-357f-48bc-aefd-3e4fb4918261)
 
-FOTO
 
-- GET /
+- **GET** /
   
 FOTO
 
-- GET /:id
+- **GET** /:id
 
 FOTO
 
-- PUT /:id
+- **PUT** /:id
 
 FOTO
 
