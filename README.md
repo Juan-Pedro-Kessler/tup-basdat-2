@@ -30,61 +30,68 @@ npm start
 
 ## Cursos (`/api/cursos`)
 
-- **POST** /
+**POST** /
   
 - ![Imagen de WhatsApp 2025-07-15 a las 18 46 02_ac5a8b74](https://github.com/user-attachments/assets/2c51dfe7-357f-48bc-aefd-3e4fb4918261)
 
-- **GET** /
+**GET** /
   
 - ![Imagen de WhatsApp 2025-07-15 a las 18 46 43_fb1d82c9](https://github.com/user-attachments/assets/a7f1de9b-733c-462f-9384-e11375fb0fae)
 
-- **GET** /:id
+**GET** /:id
 
 - ![Imagen de WhatsApp 2025-07-15 a las 18 47 06_5f3b9544](https://github.com/user-attachments/assets/f425cb3e-a03e-4a97-9502-a194144c39fa)
 
-- **PUT** /:id
+**PUT** /:id
 
-![Imagen de WhatsApp 2025-07-15 a las 18 48 15_98e75091](https://github.com/user-attachments/assets/47907b4f-62e4-4213-a668-cb13a3735a28)
+- ![Imagen de WhatsApp 2025-07-15 a las 18 48 15_98e75091](https://github.com/user-attachments/assets/47907b4f-62e4-4213-a668-cb13a3735a28)
 
- - **DELETE** /:id
+**DELETE** /:id
 
-![Imagen de WhatsApp 2025-07-15 a las 18 49 04_ecf38cb3](https://github.com/user-attachments/assets/c149f9ff-c023-4c29-94fb-37b3e44310e6)
+- ![Imagen de WhatsApp 2025-07-15 a las 18 49 04_ecf38cb3](https://github.com/user-attachments/assets/c149f9ff-c023-4c29-94fb-37b3e44310e6)
 
 
 ## Matrículas (`/api/matriculas`)
 
-- **POST** /
+**POST** /
 
-<img width="860" height="761" alt="image" src="https://github.com/user-attachments/assets/9bae41df-912f-430a-b933-b7318bed9cd9" />
+- <img width="860" height="761" alt="image" src="https://github.com/user-attachments/assets/9bae41df-912f-430a-b933-b7318bed9cd9" />
 
-- **GET** /
+**GET** /
 
-![Imagen de WhatsApp 2025-07-15 a las 18 44 22_0129fc98](https://github.com/user-attachments/assets/2e6ee60f-57f4-4dc4-996e-419c95c2ca37)
+- ![Imagen de WhatsApp 2025-07-15 a las 18 44 22_0129fc98](https://github.com/user-attachments/assets/2e6ee60f-57f4-4dc4-996e-419c95c2ca37)
 
 - **GET** /:id
 
 <img width="749" height="696" alt="image" src="https://github.com/user-attachments/assets/1c598779-fb22-4bb2-9ee8-c6da7b1e1a02" />
 
-- **PUT** /:id
+**PUT** /:id
 
-<img width="790" height="684" alt="image" src="https://github.com/user-attachments/assets/5d0ee6e4-c962-4518-b0cf-1a3ff3e0d893" />
+- <img width="790" height="684" alt="image" src="https://github.com/user-attachments/assets/5d0ee6e4-c962-4518-b0cf-1a3ff3e0d893" />
 
-- **DELETE** /:id
+  **DELETE** /:id
   
-![Imagen de WhatsApp 2025-07-15 a las 18 44 46_de249cef](https://github.com/user-attachments/assets/68eb9e12-95a2-456d-abee-ab23032c1ae0)
+- ![Imagen de WhatsApp 2025-07-15 a las 18 44 46_de249cef](https://github.com/user-attachments/assets/68eb9e12-95a2-456d-abee-ab23032c1ae0)
 
 
 ## Estudiantes (``/api/estudiantes``)
 
-- POST /
+- **POST** /
 
 FOTO
 
-- GET /
+- **GET** /
 
 FOTO
 
 
+# Tecnologías utilizadas
+
+```java
+Node.js
+Express
+MongoDB (Mongoose)
+```
 
 
 
