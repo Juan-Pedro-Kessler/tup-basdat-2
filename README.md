@@ -30,18 +30,35 @@ npm start
 
 ## Cursos (`/api/cursos`)
 
-- POST
+- POST /
 
 FOTO
 
-- GET
+- GET /
+  
 FOTO
 
+- GET /:id
 
+FOTO
 
+- PUT /:id
 
+FOTO
 
+ - DELETE /:id
 
+FOTO
+
+## Estudiantes (``/api/estudiantes``)
+
+- POST /
+
+FOTO
+
+- GET /
+
+FOTO
 
 
 
