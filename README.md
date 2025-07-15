@@ -50,6 +50,30 @@ npm start
 
 ![Imagen de WhatsApp 2025-07-15 a las 18 49 04_ecf38cb3](https://github.com/user-attachments/assets/c149f9ff-c023-4c29-94fb-37b3e44310e6)
 
+
+## Matrículas (`/api/matriculas`)
+
+- **POST** /
+
+<img width="860" height="761" alt="image" src="https://github.com/user-attachments/assets/9bae41df-912f-430a-b933-b7318bed9cd9" />
+
+- **GET** /
+
+![Imagen de WhatsApp 2025-07-15 a las 18 44 22_0129fc98](https://github.com/user-attachments/assets/2e6ee60f-57f4-4dc4-996e-419c95c2ca37)
+
+- **GET** /:id
+
+<img width="749" height="696" alt="image" src="https://github.com/user-attachments/assets/1c598779-fb22-4bb2-9ee8-c6da7b1e1a02" />
+
+- **PUT** /:id
+
+<img width="790" height="684" alt="image" src="https://github.com/user-attachments/assets/5d0ee6e4-c962-4518-b0cf-1a3ff3e0d893" />
+
+- **DELETE** /:id
+  
+![Imagen de WhatsApp 2025-07-15 a las 18 44 46_de249cef](https://github.com/user-attachments/assets/68eb9e12-95a2-456d-abee-ab23032c1ae0)
+
+
 ## Estudiantes (``/api/estudiantes``)
 
 - POST /
