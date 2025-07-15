@@ -14,11 +14,6 @@ npm install
 npm install express mongoose nodemon
 ```
 
-### Correr el servidor
-```ruby
-nmp run dev
-```
-
 ### Configurar las variables de entorno en el archivo `.env`
 
 ```ruby
@@ -26,10 +21,10 @@ MONGO_URI=mongodb://localhost:27017/cursos_online
 PORT=3000
 ```
 
-### Inicia el servidor
+### Iniciar el servidor
 
 ```ruby
-npm start
+npm run dev
 ```
 
 # Rutas disponibles
