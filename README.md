@@ -76,13 +76,13 @@ npm start
 
 ## Estudiantes (``/api/estudiantes``)
 
-- **POST** /
+**POST** /
 
-FOTO
+- ![Imagen de WhatsApp 2025-07-15 a las 18 52 20_16899a40](https://github.com/user-attachments/assets/2a9b1840-cc98-4455-82a5-2515ccc21921)
 
-- **GET** /
+**GET** /
 
-FOTO
+- ![Imagen de WhatsApp 2025-07-15 a las 19 19 15_75ef9c7a](https://github.com/user-attachments/assets/aad91681-0883-4756-ac53-aa18bcd44b85)
 
 
 # Tecnologías utilizadas
