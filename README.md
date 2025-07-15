@@ -3,14 +3,16 @@
 ### Instalación
 
 ```ruby
-git clone https://github.com//
-cd 
+git clone https://github.com/Juan-Pedro-Kessler/tup-basdat-2/jsjs.git
+cd Cursos Online
 ```
 
 ### Instala dependencias
 
 ```ruby
 npm install
+npm install express mongoose nodemon
+npm run dev
 ```
 
 ### Configurar las variables de entorno en el archivo .env
