@@ -32,15 +32,15 @@ npm start
 
 - **POST** /
   
-![Imagen de WhatsApp 2025-07-15 a las 18 46 02_ac5a8b74](https://github.com/user-attachments/assets/2c51dfe7-357f-48bc-aefd-3e4fb4918261)
+- ![Imagen de WhatsApp 2025-07-15 a las 18 46 02_ac5a8b74](https://github.com/user-attachments/assets/2c51dfe7-357f-48bc-aefd-3e4fb4918261)
 
 - **GET** /
   
-![Imagen de WhatsApp 2025-07-15 a las 18 46 43_fb1d82c9](https://github.com/user-attachments/assets/a7f1de9b-733c-462f-9384-e11375fb0fae)
+- ![Imagen de WhatsApp 2025-07-15 a las 18 46 43_fb1d82c9](https://github.com/user-attachments/assets/a7f1de9b-733c-462f-9384-e11375fb0fae)
 
 - **GET** /:id
 
-![Imagen de WhatsApp 2025-07-15 a las 18 47 06_5f3b9544](https://github.com/user-attachments/assets/f425cb3e-a03e-4a97-9502-a194144c39fa)
+- ![Imagen de WhatsApp 2025-07-15 a las 18 47 06_5f3b9544](https://github.com/user-attachments/assets/f425cb3e-a03e-4a97-9502-a194144c39fa)
 
 - **PUT** /:id
 
