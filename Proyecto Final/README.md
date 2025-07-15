@@ -140,3 +140,9 @@ MongoDB (Mongoose)
 Nodemon (desarrollo)
 Postman (para pruebas en API)
 ```
+--------------------------------
+# Integrantes:
+- Franco Devaux
+- Juan Pedro Kessler
+- Lautaro Acosta
+- Eros Perrone
