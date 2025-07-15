@@ -2,7 +2,6 @@ const express = require('express');
 const router = express.Router();
 const Curso = require('../models/curso');
 
-
 router.post('/', async (req, res) => {
   try {
     const nuevoCurso = new Curso(req.body);
@@ -13,7 +12,6 @@ router.post('/', async (req, res) => {
   }
 });
 
-
 router.get('/', async (req, res) => {
   try {
     const cursos = await Curso.find();
@@ -22,7 +20,6 @@ router.get('/', async (req, res) => {
     res.status(500).json({ error: 'Error al obtener los cursos' });
   }
 });
-
 
 router.get('/:id', async (req, res) => {
   try {
@@ -36,7 +33,6 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-
 router.put('/:id', async (req, res) => {
   try {
     const cursoActualizado = await Curso.findByIdAndUpdate(req.params.id, req.body, { new: true });
@@ -48,7 +44,6 @@ router.put('/:id', async (req, res) => {
     res.status(400).json({ error: error.message });
   }
 });
-
 
 router.delete('/:id', async (req, res) => {
   try {
